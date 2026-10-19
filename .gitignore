@@ -1,0 +1,7 @@
+# Never commit scanned forms or generated reports
+*.pdf
+*.PDF
+*Batch Report*.txt
+reports/
+school-data/
+*.log
